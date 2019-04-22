@@ -4,7 +4,7 @@
     "name": "Google Resin",
     "scope": "/",
     "display": "standalone",
-    "start_url": "https://googleresin.github.io/",
+    "start_url": "https://googleresin.github.io/index.html",
     "short_name": "Resin",
     "theme_color": "transparent",
     "description": "A demo browser using i-frames.",
