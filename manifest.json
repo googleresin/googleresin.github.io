@@ -1,0 +1,113 @@
+{
+    "dir": "ltr",
+    "lang": "af",
+    "name": "Google Resin",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "https://googleresin.github.io/",
+    "short_name": "Resin",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/1ae716a9-1f4b-8059-688f-3ec16b986b1b.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a2759952-9817-09c4-0fd4-390250d2fa0c.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/18f7e0bf-94b9-3695-789d-27b19d966e34.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1e206a13-cba3-0219-f51d-003da6b8d117.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/402304d2-7a50-cbf8-2a3b-df9ca76cf232.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b11ff51e-07ee-baf9-57b2-34cc003156f9.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a3dcbf3e-99b8-e889-3772-4c78522c0f45.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/83406597-f39f-a562-e094-96452931ca5d.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/85b25ad4-f2db-68c6-9e70-eedabfa1dc47.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/00905cbc-e59f-8409-b6bb-041826b4d06e.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/feb0846d-d827-fafc-3bb7-943eb94ae352.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f2975359-84ab-9ac6-0614-e02b57365dc6.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5fc4e481-2c5d-5212-0e55-fab37f0f4f0e.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a0b32fb5-4bd2-f78f-3f6c-a7453b3afd6a.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/72ad5ec7-919b-eb90-88c8-21f55950923d.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/857dd45c-51af-54fb-6e54-e546bd5a15aa.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2834c7a8-ebd7-c297-61e8-c6ca0383b908.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f79113b7-8016-a680-b70c-165180046b48.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c033bc18-32a7-d77b-7648-ed660bcacc22.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ],
+    "generated": true
+}
