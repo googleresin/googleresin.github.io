@@ -1,6 +1,7 @@
 <html>
     <head> 
 <link rel="manifest" href="manifest.json"></link>
+<script src="manup.js"></script>
 
         <title>
             Google Resin
@@ -28,6 +29,8 @@
         </style>
     </head> 
     <body> 
+        <script src="manup.js"></script>
+
         <form method="post" target="browser">
             <input id="txtUrl" style="font-family: 'Noto Sans', sans-serif; margin: 0; padding: 0; height:5%; width:100%; border: none;" name="url" placeholder="Address here! (use http:// and then the website you want to go to)" type="text"/>
             <input style="margin: 0; padding: 0; height:5%; width:100%; border: none;" type="button" value="Go!" class="button" onclick="setBrowserFrameSource(); return false;"/>
